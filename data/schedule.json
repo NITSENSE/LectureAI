@@ -1,0 +1,24 @@
+{
+    "schedule": [
+        {
+            "day": "monday",
+            "time": "09:00",
+            "lecture": "OperatingSystems"
+        },
+        {
+            "day": "monday",
+            "time": "10:40",
+            "lecture": "IOT"
+        },
+        {
+            "day": "wednesday",
+            "time": "09:00",
+            "lecture": "ParallelProgramming"
+        },
+        {
+            "day": "friday",
+            "time": "14:00",
+            "lecture": "OperatingSystems"
+        }
+    ]
+}

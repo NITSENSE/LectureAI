@@ -1,0 +1,4 @@
+{
+    "lectures_source": "/path/to/your/recordings/folder",
+    "chunks_to": "/path/to/your/chunks/output/folder"
+}

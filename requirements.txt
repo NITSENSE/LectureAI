@@ -1,0 +1,7 @@
+selenium>=4.15.0
+undetected-chromedriver>=3.5.0
+webdriver-manager>=4.0.0
+pyautogui>=0.9.54
+moviepy>=1.0.3
+pydub>=0.25.1
+google-genai
