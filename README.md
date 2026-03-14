@@ -164,6 +164,3 @@ python main.py
 
 MIT License
 
-## Автор
-
-[Ваше имя]
